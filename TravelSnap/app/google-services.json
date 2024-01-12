@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "10008700509",
+    "project_id": "travelsnap-dev",
+    "storage_bucket": "travelsnap-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10008700509:android:7ee47e40927ffb1f578fb4",
+        "android_client_info": {
+          "package_name": "cz.mendelu.pef.xchomo.travelsnap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10008700509-ljoko8kvacotkebtoiit2nq2rks620ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7VpLKH4KEv5tbUAmhDxvI7wq6EPCaFfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10008700509-ljoko8kvacotkebtoiit2nq2rks620ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
